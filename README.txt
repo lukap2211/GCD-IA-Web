@@ -1,1 +1,1 @@
-Insert some clever text here.\n
+This is Internet Authoring Project website
